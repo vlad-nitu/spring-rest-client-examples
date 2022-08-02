@@ -1,4 +1,4 @@
-package guru.springframework.config;
+package guru.springframework.springrestclientexamples.config;
 
 import org.springframework.boot.web.client.RestTemplateBuilder;
 import org.springframework.context.annotation.Bean;

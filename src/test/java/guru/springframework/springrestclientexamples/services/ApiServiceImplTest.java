@@ -1,6 +1,7 @@
-package guru.springframework.services;
+package guru.springframework.springrestclientexamples.services;
 
 import guru.springframework.api.domain.User;
+import guru.springframework.springrestclientexamples.services.ApiService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
