@@ -1,6 +1,3 @@
-[![CircleCI](https://circleci.com/gh/springframeworkguru/spring-rest-client-examples.svg?style=svg)](https://circleci.com/gh/springframeworkguru/spring-rest-client-examples)
-# Spring Rest Client Examples
+# Spring Rest Client examples
 
-This repository is for an example application built in my Spring Framework 5 - Beginner to Guru
-
-You can learn about my Spring Framework 5 Online course [here.](http://courses.springframework.guru/p/spring-framework-5-begginer-to-guru/?product_id=363173)
+This repository is used for `Section 23: Introduction to RESTFul Web Services` hands-on exercises of [Spring Framework 5: Beginner to Guru](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/) course.
